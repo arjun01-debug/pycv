@@ -1,5 +1,5 @@
 # pycv
-
+# Best source to learn OpenCV with python
 ---
 
 *&#9758; **This repository is no longer actively maintained.** Please consider switching to the [next edition's repository](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition), which officially supports OpenCV 4.x and should generally work with OpenCV 3.4 as well. Over there, you will find many bugfixes, improvements, and updates.*
